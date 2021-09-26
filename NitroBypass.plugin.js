@@ -1,6 +1,6 @@
 /**
  * @name DiscordNitroBypass
- * @version v1.1 Hotfix
+ * @version v1.1.1 Hotfix
  * @updateURL https://raw.githubusercontent.com/SluXzZ/Nitrobypass/main/NitroBypass.plugin.js
  * @invite https://discord.gg/cDcjrvVhG3
  * @source https://github.com/SluXzZ/Nitrobypass
